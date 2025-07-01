@@ -64,8 +64,8 @@ Apasionado por las buenas prácticas, la mejora continua y el trabajo en equipo,
 ## 📬 Contacto
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jorge-cortes-dev)  
-💻 [GitHub](https://github.com/jcortesa)
-Ⓜ️ [Manfred](https://mnf.red/jorgecortes)
+💻 [GitHub](https://github.com/jcortesa)  
+Ⓜ️ [Manfred](https://mnf.red/jorgecortes)  
 
 ---
 
